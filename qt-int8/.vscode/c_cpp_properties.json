@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/srb/cu12/bin",
+                "/home/srb/cu12/include",
+                "/home/srb/cu12/lib64",
+                "/home/srb/TensorRT-8.6.1.6/bin",
+                "/home/srb/TensorRT-8.6.1.6/include",
+                "/home/srb/TensorRT-8.6.1.6/lib",
+                "/home/srb/opencv/bin",
+                "/home/srb/opencv/include",
+                "/home/srb/opencv/lib"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++-11",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
